@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Oripari: Flutter Application
+- 🔭 I’m currently working on **nutri.gram**
 - 🌱 I’m currently learning [React](https://reactjs.org/) and [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Machine Learning
