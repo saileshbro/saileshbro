@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **nutri.gram**
-- 🌱 I’m currently learning [React](https://reactjs.org/) and [Next.js](https://nextjs.org/)
+- 🌱 I’m currently learning [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about [Flutter](https://flutter.dev)
