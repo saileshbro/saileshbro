@@ -15,6 +15,8 @@
 
 ### Highlights ✨
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=saileshbro&theme=dracula&column=7&margin-w=15&margin-h=15)
+
 |                                                 My Github Stats                                                 |                                                      Top Languages                                                      |
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=saileshbro&show_icons=true&theme=cobalt) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saileshbro&layout=compact&theme=cobalt) |
