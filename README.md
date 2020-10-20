@@ -34,7 +34,7 @@
 
 ### Contact 📞
 
-<p style="display:flex;justify-content:space-between;margin:20px 40px;">
+<p align="center">
   <a target= "_blank" href="https://github.com/saileshbro" alt="GitHub"><img height='45' src="./icons/github.png"></a>
   <a target= "_blank" href="https://www.facebook.com/saileshbro/" alt="Facebook"><img height='45' src="./icons/facebook.png"></a>
   <a target= "_blank" href="https://twitter.com/sail_sail30" alt="Twitter"><img height='45' src="./icons/twitter.png"></a>
