@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing **Internship at PR Technologies**
+- 🔭 I’m currently working as **Full Stack Mobile Application Developer at PR Technologies**
 - 🌱 I’m currently learning [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Machine Learning
