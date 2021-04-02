@@ -1,10 +1,11 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saileshbro" alt="saileshbro" /> </p>
 
 - 🔭 I’m currently working as **Full Stack Mobile Application Developer at PR Technologies**
 - 💻 I’m currently working on [nepa.ly](https://nepa.ly)
 - 🌱 I’m currently learning [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - 👯 I’m looking to collaborate on Flutter Projects
-- 🤔 I’m looking for help with Machine Learning
+- 🤔 I’m looking for help with Native App Development
 - 💬 Ask me about [Flutter](https://flutter.dev)
 - 📫 How to reach me: [saileshbro@gmail.com](mailto:saileshbro@gmail.com)
 - 😄 Name: Sailesh Dahal
