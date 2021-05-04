@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saileshbro" alt="saileshbro" /> </p>
 
-- 🔭 I’m currently working as **Full Stack Mobile Application Developer at PR Technologies**
+- 🔭 I’m currently working as **Full Stack Mobile Application Developer at [Astacraft Tech Pvt Ltd](https://www.linkedin.com/company/astacraft-tech-pvt-ltd/mycompany/)**
 - 💻 I’m currently working on [nepa.ly](https://nepa.ly)
 - 🌱 I’m currently learning [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - 👯 I’m looking to collaborate on Flutter Projects
@@ -30,7 +29,7 @@
 |                                                                                                                                                                                 |                                                                                                                                                                                |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![nutri.gram](https://github-readme-stats.vercel.app/api/pin/?username=saileshbro&repo=nutri.gram&cache_seconds=86400&theme=cobalt)](https://github.com/saileshbro/nutri.gram) |  [![cognifeed](https://github-readme-stats.vercel.app/api/pin/?username=saileshbro&repo=cognifeed&cache_seconds=86400&theme=cobalt)](https://github.com/saileshbro/cognifeed)  |
-|       [![nirogi](https://github-readme-stats.vercel.app/api/pin/?username=saileshbro&repo=nirogi&cache_seconds=86400&theme=cobalt)](https://github.com/saileshbro/nirogi)       | [![ku-projects](https://github-readme-stats.vercel.app/api/pin/?username=kucc1997&repo=ku-projects&cache_seconds=86400&theme=cobalt)](https://github.com/kucc1997/ku-projects) |
+|       [![bbc-bfs-scrapper](https://github-readme-stats.vercel.app/api/pin/?username=saileshbro&repo=bbc-bfs-scrapper&cache_seconds=86400&theme=cobalt)](https://github.com/saileshbro/nirogi)       | [![ku-projects](https://github-readme-stats.vercel.app/api/pin/?username=kucc1997&repo=ku-projects&cache_seconds=86400&theme=cobalt)](https://github.com/kucc1997/ku-projects) |
 
 ---
 
