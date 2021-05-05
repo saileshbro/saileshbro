@@ -6,12 +6,12 @@
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🤔 I’m looking for help with **Native App Development**
 - 💬 Ask me about **[Flutter](https://flutter.dev)**
-- 📫 How to reach me? **[Contact](#contact-📞)**
+- 📫 How to reach me? **[Contact](#contact)**
 - ⚡ Fun fact: 2020 sucks!
 
 ---
 
-### **Highlights** ✨
+### **Highlights**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=saileshbro&theme=dracula&column=7&margin-w=15&margin-h=15)
 
@@ -23,7 +23,7 @@
 
 ---
 
-### **Projects** 💻
+### **Projects**
 
 |                                                                                                                                                                                         |                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -32,7 +32,7 @@
 
 ---
 
-### **Contact** 📞
+### **Contact**
 
 <p align="center">
   <a target= "_blank" href="mailto:saileshbro@gmail.com" alt="Mail"><img height='45' src="./icons/email.png"></a>
