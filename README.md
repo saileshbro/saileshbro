@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with **Native App Development**
 - 💬 Ask me about **[Flutter](https://flutter.dev)**
 - 📫 How to reach me? **[Contact](#contact)**
-- ⚡ Fun fact: 2020 sucks!
+- ⚡ Fun fact: <s>2020 sucks</s> **2021** sucks even more!
 
 ---
 
