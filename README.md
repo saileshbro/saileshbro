@@ -1,8 +1,7 @@
 ### Hi there 👋 I am **Sailesh Dahal from Nepal 🇳🇵**
 
-- 🔭 I’m currently working as **Full Stack Mobile Application Developer at [Astacraft Tech Pvt Ltd](https://www.linkedin.com/company/astacraft-tech-pvt-ltd/mycompany/)**
-- 💻 I’m currently working on **[nepa.ly](https://nepa.ly)**
-- 🌱 I’m currently learning **[ASP.NET](https://dotnet.microsoft.com/apps/aspnet)**
+- 💻 I’m currently working on **Freelance Projects**
+- 🌱 I’m currently learning **[GraphQL](https://graphql.org/)**
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🤔 I’m looking for help with **Native App Development**
 - 💬 Ask me about **[Flutter](https://flutter.dev)**
