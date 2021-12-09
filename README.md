@@ -1,12 +1,12 @@
 ### Hi there 👋 I am **Sailesh Dahal from Nepal 🇳🇵**
 
 - 💻 I’m currently working on **Freelance Projects**
-- 🌱 I’m currently learning **[GraphQL](https://graphql.org/)**
+- 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org/)**
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🤔 I’m looking for help with **Native App Development**
 - 💬 Ask me about **[Flutter](https://flutter.dev)**
 - 📫 How to reach me? **[Contact](#contact)**
-- ⚡ Fun fact: <s>2020 sucks</s> **2021** sucks even more!
+- ⚡ Fun fact: <s><s>2020 sucks</s> **2021** sucks even more!</s> **2022** sucks harder!
 
 ---
 
