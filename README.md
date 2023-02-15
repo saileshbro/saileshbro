@@ -1,6 +1,4 @@
-# Hi there <a href="https://saileshdahal.com.np"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
-I am Sailesh Dahal from Nepal 🇳🇵, a full-stack developer passionate about Flutter, Dart, and Firebase.
+<a href="https://saileshdahal.com.np"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> I am **Sailesh Dahal from Nepal 🇳🇵**, a full-stack developer passionate about Flutter, Dart, and Firebase.
 
 ## Currently
 
@@ -48,5 +46,3 @@ You can reach me on the following platforms:
   <a target= "_blank" href="https://www.linkedin.com/in/saileshbro/" alt="Linkedin"><img height='45' src="./icons/linkedin.png"></a>
   <a target= "_blank" href="https://www.instagram.com/sail_sail30" alt="Instagram"><img height='45' src="./icons/instagram.png"></a>
 </p>
-
-Fun fact: 2023 is worst.
