@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         49 mins         ██████████████████▓░░░░░░   74.55 %
-TypeScript   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-JSON         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
