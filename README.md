@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart         50 mins         █████████▓░░░░░░░░░░░░░░░   39.27 %
+YAML         43 mins         ████████▒░░░░░░░░░░░░░░░░   33.73 %
+Bash         33 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+CocoaPods    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
