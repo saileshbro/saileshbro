@@ -3,7 +3,7 @@
 ## Currently
 
 - 💻 I’m currently working on **Freelance Projects**
-- 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org/)**
+- 🌱 I’m currently learning **[SwiftUI]([https://www.typescriptlang.org/](https://developer.apple.com/xcode/swiftui/))**
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🤔 I’m looking for help with **Native App Development**
 - 💬 Ask me about **[Flutter](https://flutter.dev)**
