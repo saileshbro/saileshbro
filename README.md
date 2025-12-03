@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 58 mins    █████████████████▓░░░░░░░   71.01 %
-YAML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-CocoaPods    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Groovy       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
