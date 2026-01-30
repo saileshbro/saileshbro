@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        42 mins         █████████░░░░░░░░░░░░░░░░   36.19 %
-Git Config   24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-Makefile     15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-TypeScript   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
