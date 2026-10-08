@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="23" viewBox="0 0 80 23">
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="27" viewBox="0 0 102 27">
 <title>Portfolio</title>
-<g transform="translate(0 3) scale(.625)" fill="none" stroke="#767676" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"/></g>
-<text x="20" y="17" fill="#767676" font-family="Helvetica, Arial, sans-serif" font-size="16">Portfolio</text>
-<path d="M20 20H79" stroke="#767676" stroke-width="1"/>
+<rect x=".5" y=".5" width="101" height="26" rx="5" fill="#e5e5e5" stroke="#b5b5b5" stroke-width=".7"/>
+<ns0:g xmlns:ns0="http://www.w3.org/2000/svg" transform="translate(8 5) scale(.625)" fill="none" stroke="#444444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><ns0:path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z" /></ns0:g>
+
+<text x="28" y="19" fill="#222222" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Portfolio</text>
 </svg>

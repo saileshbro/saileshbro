@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="196" height="23" viewBox="0 0 196 23">
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="27" viewBox="0 0 224 27">
 <title>hi@saileshdahal.com.np</title>
-<g transform="translate(0 3) scale(.625)" fill="none" stroke="#767676" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6L22 7"/></g>
-<text x="20" y="17" fill="#767676" font-family="Helvetica, Arial, sans-serif" font-size="16">hi@saileshdahal.com.np</text>
-<path d="M20 20H195" stroke="#767676" stroke-width="1"/>
+<rect x=".5" y=".5" width="223" height="26" rx="5" fill="#e5e5e5" stroke="#b5b5b5" stroke-width=".7"/>
+<ns0:g xmlns:ns0="http://www.w3.org/2000/svg" transform="translate(8 5) scale(.625)" fill="none" stroke="#444444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><ns0:rect x="2" y="4" width="20" height="16" rx="2" /><ns0:path d="m2 7 10 6L22 7" /></ns0:g>
+
+<text x="28" y="19" fill="#222222" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">hi@saileshdahal.com.np</text>
 </svg>

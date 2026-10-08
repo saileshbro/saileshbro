@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12" height="23" viewBox="0 0 12 23">
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
 <title>X</title>
+<rect x=".5" y=".5" width="26" height="26" rx="5" fill="#e5e5e5" stroke="#b5b5b5" stroke-width=".7"/>
 
-<text x="0" y="17" fill="#767676" font-family="Helvetica, Arial, sans-serif" font-size="16">X</text>
-<path d="M0 20H11" stroke="#767676" stroke-width="1"/>
+<text x="8" y="19" fill="#222222" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">X</text>
 </svg>
