@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="23" viewBox="0 0 79 23">
+<title>Website</title>
+<g transform="translate(0 3) scale(.625)" fill="none" stroke="#767676" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a16 16 0 0 1 0 20 16 16 0 0 1 0-20"/></g>
+<text x="20" y="17" fill="#767676" font-family="Helvetica, Arial, sans-serif" font-size="16">Website</text>
+<path d="M20 20H78" stroke="#767676" stroke-width="1"/>
+</svg>
