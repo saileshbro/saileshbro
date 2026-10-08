@@ -14,14 +14,6 @@ My work covers LLM applications, retrieval, agents that call tools, and the syst
 
 More projects and my role in each are on [my work page](https://saileshdahal.com.np/work).
 
-## Open source
-
-Selected contributions:
-
-- [Stacked](https://github.com/Stacked-Org/stacked): Flutter framework features and fixes, including text-field configuration and focus-node disposal.
-- [Supabase](https://github.com/supabase/supabase): Nepali translation.
-- [Zod](https://github.com/colinhacks/zod): Greek locale.
-
 ## Get in touch
 
 For AI integration or app development work, [tell me about your project](https://saileshdahal.com.np/contact) or email [hi@saileshdahal.com.np](mailto:hi@saileshdahal.com.np).
