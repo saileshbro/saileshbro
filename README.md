@@ -1,41 +1,23 @@
-# Sailesh Dahal
+<img align="left" src="./assets/portrait.webp" width="48" alt="Illustrated portrait of Sailesh Dahal">
 
-I help teams put AI into production. I'm an AI integration consultant based in Nepal, co-founder at [Rayu](https://rayu.ai), and lead engineer at [LaunchBox](https://launchbox.tech).
+# *Sailesh Dahal*
 
-My work covers LLM applications, retrieval, agents that call tools, and the systems behind them. I also build the web and mobile apps those systems run in, with TypeScript, Python, React Native, Expo, and Flutter.
+AI integration consultant · Nepal
 
-[Website](https://saileshdahal.com.np) · [Work](https://saileshdahal.com.np/work) · [Writing](https://saileshdahal.com.np/archive) · [LinkedIn](https://www.linkedin.com/in/saileshbro/)
+<br>
 
-## Selected work
+I help teams put AI into production. My work covers retrieval, agents that use tools, and the web and mobile apps around them.
 
-- [Rayu](https://rayu.ai): An AI nutritionist with voice, chat, meal photos, and wearable data. I co-founded the company and build its AI and mobile systems.
-- [Sambad](https://sambad.io): A shared inbox for customer conversations. I built AI agents that answer questions, take orders, and hand off to a person, and started the iOS app.
-- [Sajilo Sewa](https://www.sajilosewa.com): Nepal's home-services marketplace. I built mobile apps and the booking system behind them.
+I'm co-founder at [Rayu](https://rayu.ai), where I build an AI nutritionist that works with voice, meal photos, and wearable data. I'm also lead engineer at [LaunchBox](https://launchbox.tech).
 
-More projects and my role in each are on [my work page](https://saileshdahal.com.np/work).
+I work with TypeScript, Python, React Native, Expo, and Flutter. Along the way, I've contributed to [Stacked](https://github.com/Stacked-Org/stacked), [Supabase](https://github.com/supabase/supabase), and [Zod](https://github.com/colinhacks/zod).
 
-## Open source
+Take a look at <a href="https://saileshdahal.com.np/work"><img src="./assets/work.svg" width="14" height="14" alt=""> what I've built</a>, or visit <a href="https://saileshdahal.com.np"><img src="./assets/website.svg" width="14" height="14" alt=""> my website</a>.
 
-Selected contributions:
+Elsewhere on [LinkedIn](https://www.linkedin.com/in/saileshbro/) and [X](https://twitter.com/sail_sail30).
 
-- [Stacked](https://github.com/Stacked-Org/stacked): Flutter framework features and fixes, including text-field configuration and focus-node disposal.
-- [Supabase](https://github.com/supabase/supabase): Nepali translation.
-- [Zod](https://github.com/colinhacks/zod): Greek locale.
-
-## Latest writing
-
-Notes on AI integration and building apps. This list updates automatically from [my blog's RSS feed](https://saileshdahal.com.np/rss.xml).
-
-<!-- BLOG-POST-LIST:START -->
-- [Few takeaways on getting amazed with AI](https://saileshdahal.com.np/few-takeaways-on-getting-amazed-with-ai)
-- [Flutter FAQ: codegen and bundle size](https://saileshdahal.com.np/flutter-faq-codegen-and-bundle-size)
-- [🤳 Effortless Sharing: From external apps to your Flutter app in no time](https://saileshdahal.com.np/sharing-media-from-external-to-flutter-app)
-- [🍰 Simplifying flavor setup in the existing Flutter app: A comprehensive guide](https://saileshdahal.com.np/flavor-setup-flutter)
-- [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 6](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-6)
-- [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 5](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-5)
-- [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 4](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-4)
-<!-- BLOG-POST-LIST:END -->
-
-## Get in touch
-
-For AI integration or app development work, [tell me about your project](https://saileshdahal.com.np/contact) or email [hi@saileshdahal.com.np](mailto:hi@saileshdahal.com.np).
+<p>
+	<a href="https://saileshdahal.com.np/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg"><img src="./assets/contact-light.svg" width="188" height="36" alt="Start a conversation"></picture></a>
+	&nbsp;
+	<a href="mailto:hi@saileshdahal.com.np"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg"><img src="./assets/email-light.svg" width="116" height="36" alt="Email me"></picture></a>
+</p>
