@@ -1,24 +1,30 @@
-<a href="https://saileshdahal.com.np"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> I am **Sailesh Dahal from Nepal 🇳🇵**, a full-stack developer passionate about Flutter, Dart, and Firebase.
+# Sailesh Dahal
 
-## Currently
+I help teams put AI into production. I'm an AI integration consultant based in Nepal, co-founder at [Rayu](https://rayu.ai), and lead engineer at [LaunchBox](https://launchbox.tech).
 
-- 💻 I’m currently working on **Freelance Projects**
-- 🌱 I’m currently learning **[SwiftUI]([https://www.typescriptlang.org/](https://developer.apple.com/xcode/swiftui/))**
-- 👯 I’m looking to collaborate on **Flutter Projects**
-- 🤔 I’m looking for help with **Native App Development**
-- 💬 Ask me about **[Flutter](https://flutter.dev)**
+My work covers LLM applications, retrieval, agents that call tools, and the systems behind them. I also build the web and mobile apps those systems run in, with TypeScript, Python, React Native, Expo, and Flutter.
 
-## My weekly development breakdown 📊
+[Website](https://saileshdahal.com.np) · [Work](https://saileshdahal.com.np/work) · [Writing](https://saileshdahal.com.np/archive) · [LinkedIn](https://www.linkedin.com/in/saileshbro/)
 
-<!--START_SECTION:waka-->
+## Selected work
 
-```txt
-No activity tracked
-```
+- [Rayu](https://rayu.ai): An AI nutritionist with voice, chat, meal photos, and wearable data. I co-founded the company and build its AI and mobile systems.
+- [Sambad](https://sambad.io): A shared inbox for customer conversations. I built AI agents that answer questions, take orders, and hand off to a person, and started the iOS app.
+- [Sajilo Sewa](https://www.sajilosewa.com): Nepal's home-services marketplace. I built mobile apps and the booking system behind them.
 
-<!--END_SECTION:waka-->
+More projects and my role in each are on [my work page](https://saileshdahal.com.np/work).
 
-## Blog Posts 📕
+## Open source
+
+Selected contributions:
+
+- [Stacked](https://github.com/Stacked-Org/stacked): Flutter framework features and fixes, including text-field configuration and focus-node disposal.
+- [Supabase](https://github.com/supabase/supabase): Nepali translation.
+- [Zod](https://github.com/colinhacks/zod): Greek locale.
+
+## Latest writing
+
+Notes on AI integration and building apps. This list updates automatically from [my blog's RSS feed](https://saileshdahal.com.np/rss.xml).
 
 <!-- BLOG-POST-LIST:START -->
 - [Few takeaways on getting amazed with AI](https://saileshdahal.com.np/few-takeaways-on-getting-amazed-with-ai)
@@ -30,16 +36,6 @@ No activity tracked
 - [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 4](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-4)
 <!-- BLOG-POST-LIST:END -->
 
-## Contact 📱
+## Get in touch
 
-You can reach me on the following platforms:
-
-<p style="display:flex; gap:20px; justify-content:center;">
-  <a target= "_blank" href="https://saileshdahal.com.np" alt="Blog"><img height='45' src="./icons/hashnode.png"></a>
-  <a target= "_blank" href="mailto:saileshbro@gmail.com" alt="Mail"><img height='45' src="./icons/email.png"></a>
-  <a target= "_blank" href="https://github.com/saileshbro" alt="GitHub"><img height='45' src="./icons/github.png"></a>
-  <a target= "_blank" href="https://www.facebook.com/saileshbro/" alt="Facebook"><img height='45' src="./icons/facebook.png"></a>
-  <a target= "_blank" href="https://twitter.com/sail_sail30" alt="Twitter"><img height='45' src="./icons/twitter.png"></a>
-  <a target= "_blank" href="https://www.linkedin.com/in/saileshbro/" alt="Linkedin"><img height='45' src="./icons/linkedin.png"></a>
-  <a target= "_blank" href="https://www.instagram.com/sail_sail30" alt="Instagram"><img height='45' src="./icons/instagram.png"></a>
-</p>
+For AI integration or app development work, [tell me about your project](https://saileshdahal.com.np/contact) or email [hi@saileshdahal.com.np](mailto:hi@saileshdahal.com.np).
