@@ -22,20 +22,6 @@ Selected contributions:
 - [Supabase](https://github.com/supabase/supabase): Nepali translation.
 - [Zod](https://github.com/colinhacks/zod): Greek locale.
 
-## Latest writing
-
-Notes on AI integration and building apps. This list updates automatically from [my blog's RSS feed](https://saileshdahal.com.np/rss.xml).
-
-<!-- BLOG-POST-LIST:START -->
-- [Few takeaways on getting amazed with AI](https://saileshdahal.com.np/few-takeaways-on-getting-amazed-with-ai)
-- [Flutter FAQ: codegen and bundle size](https://saileshdahal.com.np/flutter-faq-codegen-and-bundle-size)
-- [🤳 Effortless Sharing: From external apps to your Flutter app in no time](https://saileshdahal.com.np/sharing-media-from-external-to-flutter-app)
-- [🍰 Simplifying flavor setup in the existing Flutter app: A comprehensive guide](https://saileshdahal.com.np/flavor-setup-flutter)
-- [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 6](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-6)
-- [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 5](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-5)
-- [🚀 Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 4](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-4)
-<!-- BLOG-POST-LIST:END -->
-
 ## Get in touch
 
 For AI integration or app development work, [tell me about your project](https://saileshdahal.com.np/contact) or email [hi@saileshdahal.com.np](mailto:hi@saileshdahal.com.np).
