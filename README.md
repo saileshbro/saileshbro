@@ -22,6 +22,6 @@ I've contributed to [Stacked](https://github.com/Stacked-Org/stacked), [Supabase
 <a href="https://saileshdahal.com.np/work"><img src="./assets/work.svg" width="14" height="14" alt=""> Portfolio</a> &nbsp;·&nbsp; <a href="https://saileshdahal.com.np"><img src="./assets/website.svg" width="14" height="14" alt=""> Website</a> &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/saileshbro/) &nbsp;·&nbsp; [X](https://twitter.com/sail_sail30)
 
 <p>
-	<a href="https://saileshdahal.com.np/contact"><img src="./assets/lets-talk.svg" width="112" height="34" alt="Let's talk"></a>
+	<a href="https://saileshdahal.com.np/contact"><img src="./assets/lets-talk.svg" width="112" height="34" align="absmiddle" alt="Let's talk"></a>
 	&nbsp; <a href="mailto:hi@saileshdahal.com.np">hi@saileshdahal.com.np</a>
 </p>
